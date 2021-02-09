@@ -1,1 +1,2 @@
-# Ruby_repractice
+# Rubyの学習カリキュラムの復習
+## Rubyの記述を再確認
